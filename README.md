@@ -7,7 +7,7 @@
   
 - 🌱 I’m currently learning **React and React Native**  
   
-- 👨‍💻 All of my projects are available at [My Portfolio](imangeluuh-portfolio.netlify.app)  
+- 👨‍💻 All of my projects are available at [My Portfolio](https://imangeluuh-portfolio.netlify.app/)  
   
 - 📫 How to reach me **angelanicolebatoon@gmail.com**  
   
