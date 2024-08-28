@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/faf7bce2-492f-4618-b05f-161226e1f0eb)
-
 <h1 align="center">Hi 👋, I'm Angela Nicole Batoon</h1>  
 <h3 align="center">A passionate web developer from Philippines</h3>  
   
